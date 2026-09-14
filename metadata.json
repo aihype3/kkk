@@ -1,0 +1,6 @@
+{
+  "name": "KabadiWala",
+  "description": "Digital bridge between informal scrap collectors and authorized e-waste recyclers for fair pricing, safe handling, and traceability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
